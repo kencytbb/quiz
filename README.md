@@ -1,5 +1,7 @@
-#THIS IS PRACTICAL PROJECT USING VUEJS
-#FOLLOWING THIS TUTORIAL: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3432s
+# THIS IS PRACTICAL PROJECT USING VUEJS
+
+# FOLLOWING THIS TUTORIAL: https://www.youtube.com/watch?v=4deVCNJq3qc&t=3432s
+
 # quiz
 
 ## Project setup
